@@ -9,7 +9,6 @@ FarmAI is an AI-powered smart farming platform designed to help smallholder farm
 Smallholder farmers in rural Rwanda face significant challenges:
 - Climate variability and unpredictable weather patterns
 - Poor soil quality and degradation
-- Water scarcity and inefficient irrigation
 - Limited access to real-time agricultural data
 - Lack of affordable, context-specific advisory services
 
@@ -142,6 +141,9 @@ The PPO algorithm demonstrated the best performance with:
 - Stable training progression
 
 ![PPO Training Performance](results/ppo/ppo_training.png)
+
+## Report 
+The report is available in the report file [here](https://docs.google.com/document/d/1oA0fBg5wq6ejL4G8fiZ8qsC_-qh6dT2a_6sXhCHOBEY/edit?usp=sharing).
 
 ## Future Work
 
